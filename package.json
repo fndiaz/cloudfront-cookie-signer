@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.365.0",
+    "cookie-parser" : "^1.4.4",
     "body-parser": "^1.18.2",
     "express": "^4.16.3"
   }
